@@ -37,7 +37,7 @@
 
 ### 周期
 
-![周期]()
+![周期](https://github.com/im-iron-man/summary/blob/master/%E4%BA%92%E8%81%94%E7%BD%91/%E6%9C%AC%E8%B4%A8/%E5%91%A8%E6%9C%9F.png)
 参见[11]。
 
 ## 参考文献
