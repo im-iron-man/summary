@@ -23,11 +23,11 @@
 生活中随处可见互联网带来的新产物，虽然他们都有美好的初衷，但不是每一个都有美好的结果。
 
 - 成功：将隐形的需求转化为显性的痛点
-- 失败：未考虑政策，文化习惯，真实需求
+- 失败：未考虑政策，技术可行性，文化习惯，当下需求，产品过剩[4][5]
 
 ### 未来
 
-首先大家都在惶恐互联网带来的网络红利即将到头[3][4]。其次互联网对技术创新的间接影响永远在持续。
+首先大家都在惶恐互联网带来的网络红利即将到头[3][6]。其次互联网本身也在转向[7][8]。最后互联网对技术创新的间接影响永远在持续。
 
 ## 技术创新
 
@@ -36,7 +36,11 @@
 - [1][创新2.0](http://baike.baidu.com/view/1923326.htm)
 - [2][互联网+](http://baike.baidu.com/link?url=biYLuc8q6Uzu024h1V0EkblkEeA0J5M9aaAKu-MpLHarjxkyOg3hpTfbxPxSjzrE9Y7GBcztr58UTqMCf2VeMsbjV8N35znPRwwWW8J_hUVUwrP6_1-7SxqpXApsQMGr)
 - [3][2016年哪些互联网行业在由盛转衰--刘品杰的回答](https://www.zhihu.com/question/53307534/answer/138533757)
-- [4][2016年发生的哪些小事反映了大的趋势和变革--JimSoup的回答](https://www.zhihu.com/question/53924494/answer/137411911)
+- [4][2016年哪些互联网行业在由盛转衰--贺嘉的回答](https://www.zhihu.com/question/53307534/answer/134548779)
+- [5][2016年哪些互联网行业在由盛转衰--拾叁浩的回答](https://www.zhihu.com/question/53307534/answer/134486165)
+- [6][2016年发生的哪些小事反映了大的趋势和变革--JimSoup的回答](https://www.zhihu.com/question/53924494/answer/137411911)
+- [7][2016年哪些互联网行业在由盛转衰--Ycle Schu的回答](https://www.zhihu.com/question/53307534/answer/134472626)
+- [8][2016年哪些互联网行业在由盛转衰--胡敏的回答](https://www.zhihu.com/question/53307534/answer/134667134)
 
 ## 阅读材料
 
