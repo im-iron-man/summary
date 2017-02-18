@@ -31,6 +31,15 @@
 
 ## 技术创新
 
+### 工业革命
+
+教科书里讲了两次工业革命：蒸汽机和电的发明。但其实这只是一种简化，像书籍，金钱，社会模式，工厂的大生产都可以作为一种工业革命。而互联网也将在当下的工业革命中扮演者重要的角色[9][10]。
+
+### 周期
+
+![周期]()
+参见[11]。
+
 ## 参考文献
 
 - [1][创新2.0](http://baike.baidu.com/view/1923326.htm)
@@ -41,6 +50,9 @@
 - [6][2016年发生的哪些小事反映了大的趋势和变革--JimSoup的回答](https://www.zhihu.com/question/53924494/answer/137411911)
 - [7][2016年哪些互联网行业在由盛转衰--Ycle Schu的回答](https://www.zhihu.com/question/53307534/answer/134472626)
 - [8][2016年哪些互联网行业在由盛转衰--胡敏的回答](https://www.zhihu.com/question/53307534/answer/134667134)
+- [9][下一次工业革命就在眼前](http://www.bilibili.com/video/av7349370)
+- [10][人类简史](https://book.douban.com/subject/25985021)
+- [11][从0到1](https://book.douban.com/subject/26297606)
 
 ## 阅读材料
 
