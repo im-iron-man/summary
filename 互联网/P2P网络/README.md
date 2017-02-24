@@ -31,7 +31,7 @@
 - [经济学界是如何看待比特币的？](https://www.zhihu.com/question/22036280)
 - [深入理解比特币交易的脚本](https://zhuanlan.zhihu.com/p/24838810)
 
-### Github
+## Github
 
 - [Bitcoin](https://github.com/bitcoin)
 - [Bitcoin in Go](https://github.com/btcsuite)
