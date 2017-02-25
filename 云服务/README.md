@@ -20,7 +20,7 @@
 
 ## IaaS：Software as a Service：（软件即服务）
 
-![aaS]()
+![aaS](https://github.com/im-iron-man/summary/blob/master/%E4%BA%91%E6%9C%8D%E5%8A%A1/aaS.jpg)
 
 ## docker
 
