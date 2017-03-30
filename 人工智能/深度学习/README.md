@@ -9,8 +9,8 @@
 ### 卷积神经网络（CNN）
 
 - [卷积神经网络](http://blog.csdn.net/stdcoutzyx/article/details/41596663)
-- ImageNet
-- DeepID
+   - ImageNet
+   - DeepID
 
 ### 循环神经网络（RNN）
 
