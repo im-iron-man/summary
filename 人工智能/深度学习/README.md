@@ -1,0 +1,29 @@
+﻿# 深度学习
+
+## 神经网络
+
+### 深度神经网络（DNN）
+
+- [重磅！神经网络浅讲：从神经元到深度学习](http://www.36dsj.com/archives/39775)
+
+### 卷积神经网络（CNN）
+
+- [卷积神经网络](http://blog.csdn.net/stdcoutzyx/article/details/41596663)
+- ImageNet
+- DeepID
+
+### 循环神经网络（RNN）
+
+- [循环神经网络(RNN, Recurrent Neural Networks)介绍](http://blog.csdn.net/heyongluoyao8/article/details/48636251)
+
+## 深度树（Deep Forest）
+
+- [如何评价周志华教授新提出的Deep Forest模型，它会取代当前火热的深度学习DNN吗？](https://www.zhihu.com/question/56474891)
+
+## 教程
+
+- [DeepLearningBook](http://www.deeplearningbook.org)
+- [Stanford](http://ufldl.stanford.edu/tutorial)
+- [Stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+- [cs231n](http://cs231n.github.io)
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
