@@ -8,7 +8,7 @@
 
 - [neural_style_tensorflow](https://github.com/burness/neural_style_tensorflow)
 - [neural-style](https://github.com/anishathalye/neural-style)
-- [neural-style](ttps://github.com/jcjohnson/neural-style)
+- [neural-style](https://github.com/jcjohnson/neural-style)
 - [fast-neural-style](https://github.com/OlavHN/fast-neural-style)
 - [fast-neural-style-tensorflow](https://github.com/hzy46/fast-neural-style-tensorflow)
 - [fast-neural-style.tf](https://github.com/junrushao1994/fast-neural-style.tf)
