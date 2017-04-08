@@ -29,3 +29,6 @@
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 ## 框架
+
+- [深度学习框架的介绍与比较](http://blog.csdn.net/jim_cainiaoxiaolang/article/details/52346938)
+- [深度学习——你需要了解的八大开源框架](http://www.leiphone.com/news/201608/5kCJ4Vim3wMjpBPU.html)
