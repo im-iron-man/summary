@@ -1,0 +1,6 @@
+- [fxsjy/jieba](https://github.com/fxsjy/jieba)
+- [python结巴分词(jieba)学习](http://www.tuicool.com/articles/QV36ru)
+- [jieba源码解析](http://python.jobbole.com/86603/)
+- [jieba分词学习笔记（一）](https://segmentfault.com/a/1190000004061791)
+- [jieba分词学习笔记（二）](https://segmentfault.com/a/1190000004065927)
+- [jieba分词学习笔记（三）](https://segmentfault.com/a/1190000004085949)

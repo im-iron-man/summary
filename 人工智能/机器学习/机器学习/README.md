@@ -1,0 +1,2 @@
+- [机器学习](http://open.163.com/special/opencourse/machinelearning.html)
+- [机器学习](http://cs229.stanford.edu/)

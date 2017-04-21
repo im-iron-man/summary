@@ -1,0 +1,1 @@
+- [机器学习实战](https://www.manning.com/books/machine-learning-in-action)

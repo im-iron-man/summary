@@ -1,0 +1,3 @@
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [tioover/bendan](https://github.com/tioover/bendan/tree/2ddb24ea88bdde58ba3e5c56d63ed1f28c6b64a4)
+- [carefree0910/MachineLearning](https://github.com/carefree0910/MachineLearning)

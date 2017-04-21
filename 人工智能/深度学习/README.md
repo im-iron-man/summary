@@ -1,4 +1,4 @@
-﻿# 深度学习
+# 深度学习
 
 ## 神经网络
 
@@ -22,11 +22,13 @@
 
 ## 教程
 
+- 数学之美
+- [cs231n](http://cs231n.github.io)
 - [DeepLearningBook](http://www.deeplearningbook.org)
 - [Stanford](http://ufldl.stanford.edu/tutorial)
 - [Stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-- [cs231n](http://cs231n.github.io)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [App-DL](https://github.com/lipiji/App-DL)
 
 ## 框架
 

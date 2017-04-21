@@ -1,0 +1,3 @@
+- [nltk文档](http://www.nltk.org/)
+- [Python自然语言处理入门](http://python.jobbole.com/85094/)
+- [如何用Python中的NLTK对中文进行分析和处理？](https://www.zhihu.com/question/20922994)
