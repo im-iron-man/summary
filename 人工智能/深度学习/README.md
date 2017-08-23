@@ -25,6 +25,7 @@
 - 数学之美
 - [cs231n](http://cs231n.github.io)
 - [DeepLearningBook](http://www.deeplearningbook.org)
+- [神经网络与深度学习](https://nndl.github.io/)
 - [Stanford](http://ufldl.stanford.edu/tutorial)
 - [Stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
